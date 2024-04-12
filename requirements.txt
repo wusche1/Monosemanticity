@@ -1,0 +1,17 @@
+numpy
+torch
+matplotlib
+einops
+jaxtyping
+plotly
+ipython
+rich
+tqdm
+dataclasses
+typing
+pandas
+nbformat
+ipywidgets
+scipy
+transformer_lens
+pytest
